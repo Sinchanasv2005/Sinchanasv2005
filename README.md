@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi👋,I'm Sinchana SV
 3rd-year Electronics and Communication Engineering (ECE) student<br>Experienced in collaborative projects and hackathons <br>Area of interest : Embedded systems, IoT, software technical and non Technical Actively seeking internship opportunities to gain hands-on experience
 
 
