@@ -1,5 +1,5 @@
 # Hi👋,I'm Sinchana SV
-3rd-year Electronics and Communication Engineering (ECE) student<br>Experienced in collaborative projects and hackathons <br>Area of interest : Embedded systems, IoT, software technical and non Technical Actively seeking internship opportunities to gain hands-on experience
+Third-year Electronics and Communication Engineering (ECE) undergraduate at PES College of Engineering, Mandya, possessing a solid foundation in electronics, embedded systems, and proven success in collaborative projects and hackathons, including Best Idea Award and 2nd Prize from two institutions. Seeking internships to apply technical expertise and contribute to innovative team initiatives
 
 
 ## 🌐 Socials:
